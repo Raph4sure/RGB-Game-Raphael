@@ -21,6 +21,6 @@ const changeColor = () => {
     console.log(colors);
 };
 
-console.log(changeColor());
+// console.log(changeColor());
 
 // console.dir(document.body)
