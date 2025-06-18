@@ -16,13 +16,10 @@ html {
 }
 
 .box {
-
     background-color: brown;
-
-
 }
 
-.box:hover{
+.box:hover {
     cursor: pointer;
 }
 
@@ -34,35 +31,26 @@ html {
     gap: 10px;
 }
 
-.heading{
+.heading {
     font-size: 40px;
     color: blue;
 }
 
-.displayHeading{
+.displayHeading {
     font-size: 25px;
     font-weight: 700;
 }
 
-.displayRgb{
+.displayRgb {
     font-size: 20px;
     font-weight: 700;
 }
 
-.displayOption{
+.displayOption {
     font-size: 20px;
     font-weight: 500;
 }
 
-
-
-/* .displayOption{
-    opacity: 0;
-} */
-
-.show {
-    opacity: 1;
-}
 .hide {
     opacity: 0;
 }
